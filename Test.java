@@ -1,4 +1,4 @@
-public class AddTwoNumbers {
+public class Test {
     public static void main(String[] args) {
         // Declare and initialize two integer variables
         int number1 = 15;
